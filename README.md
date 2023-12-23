@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **hassanrazzaa26@gmail.com**
 
-- 📄 Know about my experiences [https://www.mediafire.com/file/ycrcp15wmn498cs/My_CV.pdf/file](https://www.mediafire.com/file/ycrcp15wmn498cs/My_CV.pdf/file)
-
 - ⚡ Fun fact **Full Stack Web Develpor.**
 
 <h3 align="left">Connect with me:</h3>
