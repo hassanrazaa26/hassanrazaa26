@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hassanrazzaa26@gmail.com**
 
-- ⚡ Fun fact **Full Stack Web Develpor.**
+- ⚡ Fun fact **Machine Learning Expert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
