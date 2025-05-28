@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanrazaa26&label=Profile%20views&color=0e75b6&style=flat" alt="hassanrazaa26" /> </p>
 
-- 📝 I regularly write articles on [https://hassanraza26.blogspot.com/](https://hassanraza26.blogspot.com/)
+- 📝 My Kaggle Account is  [https://www.kaggle.com/hassanraza26]
 
 - 📫 How to reach me **hassanrazzaa26@gmail.com**
 
